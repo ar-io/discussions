@@ -29,7 +29,7 @@ This space is for **deep, protocol-level discussion** around the design and arch
 
 ## 🧠 How to Participate
 
-- Use GitHub **Discussions** to start a thread with a clear, focused topic.
+- Use GitHub **[Discussions](https://github.com/ar-io/discussions/discussions)** to start a thread with a clear, focused topic.
 - Use one of the predefined labels (e.g. `smart-contract`, `staking`, `arns`, etc.).
 - One topic per thread - scoped, constructive, and reasoned.
 
