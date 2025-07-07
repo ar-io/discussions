@@ -2,38 +2,40 @@
 
 Welcome to the AR.IO Network’s technical forum.
 
-This space is for **deep technical discussion** around the design, architecture, and evolution of the AR.IO protocol and its components - including the smart contract, AO integrations, gateway infrastructure, ArNS, staking mechanics, and incentive structures.
+This space is for **deep, protocol-level discussion** around the design and architecture of the AR.IO Network - including the smart contract, AO integration, gateway infrastructure, ArNS, staking mechanics, reward logic, and observation systems.
 
-**Important:** Posting here does **not** initiate a formal proposal or governance process. Contributions are public, permanent, and visible to the broader ecosystem, but there is no guarantee that they will be reviewed, discussed, or adopted.
-
----
-
-## Appropriate Topics
-
-Discussions here are best suited for:
-
-- Protocol and smart contract design
-- Network incentive structures and staking mechanisms
-- ArNS pricing model, ANT evolution, or name system dynamics
-- Gateway architectural decisions or modularity tradeoffs
-- Observability, performance metrics, and protocol incentives
-
-This is **not** the place for:
-- How-to questions or troubleshooting (please use [Discord](https://discord.com/invite/HGG52EtTc2) for support)
-- Feature requests without deep technical framing
-- Non-technical posts
+> **Note:** Posting here does **not** initiate a governance process. Discussions are public and permanent but are not guaranteed to be reviewed, responded to, or adopted.
 
 ---
 
-## How to Use
+## ✅ What Belongs Here
 
-- Use GitHub **Discussions** to start a topic with clear context and rationale.
-- One topic per thread is best - give it a descriptive title.
-- Keep tone constructive and focused on reasoning, architecture, and implementation.
+- Smart contract architecture and AO Process logic
+- Staking, delegation, withdrawal, and protocol reward flows
+- ArNS (naming system), pricing, undernames, and ANT structure
+- Gateway architecture, modularity, indexing, and peer coordination
+- Observation and Incentive Protocol (OIP): reports, scoring, and reward criteria
+- ARIO token utility: how it's used within protocol interactions
 
 ---
 
-### Resources
+## 🚫 What Does Not
+
+- How-to questions or troubleshooting - use [Discord](https://discord.com/invite/HGG52EtTc2) instead
+- General feedback, idea brainstorming, or user support
+- Feature requests without technical depth or protocol relevance
+
+---
+
+## 🧠 How to Participate
+
+- Use GitHub **Discussions** to start a thread with a clear, focused topic.
+- Use one of the predefined labels (e.g. `smart-contract`, `staking`, `arns`, etc.).
+- One topic per thread - scoped, constructive, and reasoned.
+
+---
+
+### 📚 Resources
 
 - [White Paper](https://whitepaper.ar.io/)
 - [AR.IO Documentation](https://docs.ar.io)
