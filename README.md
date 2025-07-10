@@ -16,7 +16,7 @@ This space is for **deep, protocol-level discussion** around the design and arch
 - Gateway architecture, modularity, indexing, and peer coordination
 - Observation and Incentive Protocol (OIP): reports, scoring, and reward criteria
 - ARIO token utility: how it's used within protocol interactions
-
+<img width="937" height="688" alt="image" src="https://github.com/user-attachments/assets/fea99444-0c2b-48ed-85a0-dda97f3498e4" />
 ---
 
 ## 🚫 What Does Not
